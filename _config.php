@@ -13,11 +13,11 @@ $websiteTitle = "phoenix";
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
 $websiteUrl = "{$protocol}://{$_SERVER['SERVER_NAME']}";
 $websiteLogo = $websiteUrl . "/public/logo/logo.png";
-$contactEmail = "raisulentertainment@gmail.com";
+$contactEmail = "no email";
 
 $version = "1.0.2";
 
-$discord = "https://dcd.gg/anipaca";
+$discord = "https://dcd.gg/phoenix";
 $github = "https://github.com/PacaHat";
 $telegram = "https://t.me/anipaca";
 $instagram = "https://www.instagram.com/pxr15_"; 
