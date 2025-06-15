@@ -9,7 +9,7 @@ if ($conn->connect_error) {
     echo("Database connection failed.");
 }
 
-$websiteTitle = "AniPaca";
+$websiteTitle = "phoenix";
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
 $websiteUrl = "{$protocol}://{$_SERVER['SERVER_NAME']}";
 $websiteLogo = $websiteUrl . "/public/logo/logo.png";
