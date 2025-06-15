@@ -17,10 +17,10 @@ $contactEmail = "no email";
 
 $version = "1.0.2";
 
-$discord = "https://dcd.gg/phoenix";
-$github = "https://github.com/PacaHat";
-$telegram = "https://t.me/anipaca";
-$instagram = "https://www.instagram.com/pxr15_"; 
+$discord = "https://github.com/PhoenixFury0000/phoenix001";
+$github = "https://github.com/PhoenixFury0000/phoenix001";
+$telegram = "@phoenixfury177013";
+$instagram = "i dont use"; 
 
 // all the api you need
 $zpi = "https://your-hosted-api.com/api"; //https://github.com/PacaHat/zen-api
