@@ -1,6 +1,6 @@
 {
-    "short_name": "AniPca",
-    "name": "AniPaca",
+    "short_name": "phoenix",
+    "name": "phoenix",
     "description": "<?=$websiteDescription?>",
     "icons": [
         {
